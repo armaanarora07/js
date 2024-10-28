@@ -31,6 +31,27 @@ let some_number = 34
 
 string_some_number = String(some_number)
 
-console.log(string_some_number)
-console.log(typeof string_some_number)
+// console.log(string_some_number)
+// console.log(typeof string_some_number)
 
+
+//--------------------------operations--------------------
+
+// let num = 45
+// let neg_num = -num
+
+// console.log(neg_num);
+
+// console.log(1+"3");
+// console.log("1"+3);
+// console.log("1"+1+3+2+1+5)
+// console.log(1+1+"3"+2);
+
+// console.log(+true);
+// console.log(+"")
+// console.log(1+null);
+
+let game_counter=100
+game_counter++
+++game_counter
+console.log(game_counter);
