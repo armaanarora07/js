@@ -1,2 +1,2 @@
 # js
-code repo for js yt
+a code respo for storing the lessons of js
